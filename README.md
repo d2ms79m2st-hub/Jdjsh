@@ -74,6 +74,8 @@ pnpm db:push
 
 ## النشر
 
+مستودع GitHub canonical الحالي: <https://github.com/d2ms79m2st-hub/Jdjsh>.
+
 يستخدم المشروع إعداد Webdev القياسي: `Dockerfile`، و`/api/health`، و`pnpm build`. لا يتم اعتبار النشر أو ربط GitHub مكتملًا إلا بعد ظهور receipt ناجح من Webdev. إعداد CI/CD وGitHub Actions مرتبط بصلاحيات المستودع بعد إتمام الربط.
 
 ## هيكل مختصر
